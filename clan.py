@@ -98,6 +98,7 @@ ACCOUNTS = [
     {"email": "kingcpmcpm35@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm36@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm37@gmail.com", "password": "666666"},
+    {"email": "kingcpmcpm38@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm39@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm40@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm41@gmail.com", "password": "666666"},
@@ -111,6 +112,7 @@ ACCOUNTS = [
     {"email": "kingcpmcpm49@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm50@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm51@gmail.com", "password": "666666"},
+    {"email": "kingcpmcpm52@gmail.com", "password": "666666"},
 ]
 def login(email, password):
     """Login to CPM using Firebase API."""
